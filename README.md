@@ -2,7 +2,7 @@
 
 *Financial Operations Analyst · MSBA Candidate · FP&A + Analytics*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paven-oommen)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 [![Portfolio](https://img.shields.io/badge/Reports-000000?style=flat-square&logo=github&logoColor=white)](https://paven227.github.io/STA9750-2025-FALL/)
 
@@ -68,7 +68,7 @@ Co-built a Kimball-style dimensional warehouse in BigQuery using dbt, modeling N
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/paven-oommen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paven-oommen)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pavenmathew007@gmail.com)
 
 *Open to FP&A and data analyst roles across NYC/NJ.*
