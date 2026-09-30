@@ -60,9 +60,10 @@ Spatially joined **683,788 NYC street trees** to City Council districts to quant
 Applied bootstrap and permutation testing to **46 years of BLS employment data** (1979–2025) to evaluate political claims of "rigged" jobs revisions, finding no statistical evidence of bias and returning verdicts backed by hypothesis tests rather than assertion.
 `R` · `Hypothesis Testing` · `Bootstrap/Permutation Methods` · `infer`
 
-### 🚦 [NYC Traffic & Road Degradation Data Warehouse](https://github.com/PAVEN227/baruch-cis-9440-dbt)
-Co-built a Kimball-style dimensional warehouse in BigQuery using dbt, modeling NYC traffic and road-condition data into fact and dimension tables to support downstream reporting and analysis.
-`BigQuery` · `dbt` · `SQL` · `Dimensional Modeling`
+### 🚦 [NYC Traffic & Road Infrastructure Analysis](https://raulsolanavarro.github.io/nyc-analytics-project-rjsn/)
+Team Final Project — CIS 9440, Data Warehousing and Analytics
+Integrated NYC 311 Service Requests and DOT Automated Traffic Volume Counts (2020–2025) to investigate the relationship between traffic density and road infrastructure degradation across NYC's five boroughs. Built a Kimball star-schema dimensional model and a full ELT pipeline using the Socrata API, Google Cloud Functions, BigQuery, and dbt, delivering a Looker Studio dashboard answering two core questions: does traffic volume correlate with complaint frequency, and does response time vary by borough?
+`SQL` · `BigQuery` · `dbt` · `Looker Studio` · `Data Warehousing` · `Kimball` · `NYC Open Data` · `Python`
 
 ---
 
